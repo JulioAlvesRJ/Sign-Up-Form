@@ -30,6 +30,7 @@ This project was developed using the following technologies:
 ## 💻 Project
 
 Sign Up page using HTML and CSS.
+
 This project was made based on a youtube video from @giovannamoeller
 
 ---
