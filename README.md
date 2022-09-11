@@ -14,7 +14,7 @@
 <img src="assets/Web Version.png"/>
 
 ### Mobile Version
-<img src="assets/Mobile Version.png"/>
+<img src="assets/Mobile Version.gif"/>
 
 ## 🚀 Starting
 
